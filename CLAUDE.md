@@ -4,9 +4,9 @@
 Refining three Jupyter notebooks to introduce 4th year digital history students to Python, strings, and web scraping. The goal is to expand content, add more hands-on exercises, and incorporate better historical data sources.
 
 ## Current Notebook Status
-- **DigitalHistory1_Improved.ipynb**: ✅ **COMPLETED** - Comprehensive Python fundamentals with step-by-step pedagogy
-- **DigitalHistory2_Fixed.ipynb**: ✅ **COMPLETED** - Step-by-step web scraping with Canadian historical sources  
-- **DigitalHistory3.ipynb**: ✅ **COMPLETED** - Modern text analysis with SpaCy, religious discourse in presidential inaugurals
+- **01_python_fundamentals.ipynb**: ✅ **COMPLETED** - Comprehensive Python fundamentals with step-by-step pedagogy
+- **02_web_scraping.ipynb**: ✅ **COMPLETED** - Step-by-step web scraping with Canadian historical sources  
+- **03_text_analysis.ipynb**: ✅ **COMPLETED** - Modern text analysis with SpaCy, religious discourse in presidential inaugurals
 
 ## Key Changes Made
 1. **Switch from Project Gutenberg to Internet Archive** for better Canadian content
@@ -174,9 +174,9 @@ Refining three Jupyter notebooks to introduce 4th year digital history students 
 ## Final Implementation Summary
 
 ### **Complete Learning Progression:**
-1. **Notebook 1** - Python fundamentals with Canadian historical examples (60+ cells)
-2. **Notebook 2** - Web scraping with ethical practices and Canadian sources (30+ cells)  
-3. **Notebook 3** - Modern text analysis with SpaCy and temporal visualization (25+ cells)
+1. **01_python_fundamentals.ipynb** - Python fundamentals with Canadian historical examples (60+ cells)
+2. **02_web_scraping.ipynb** - Web scraping with ethical practices and Canadian sources (30+ cells)  
+3. **03_text_analysis.ipynb** - Modern text analysis with SpaCy and temporal visualization (25+ cells)
 
 ### **Modern Technical Stack (2025):**
 - **Text Processing**: SpaCy (primary), NLTK (supplementary)
